@@ -9,16 +9,16 @@ Board: Arduino Uno
 --- WIRING ---
 
 Water sensor:
-VCC: 
-GND: 
-Signal: 
+VCC: D7
+GND: GND
+Signal: A0
 
 Relay:
-VCC: 
-GND: 
-Signal: 
+VCC: 5V 
+GND: GND
+Signal: D3
 Comon: 5V Arduino output pin
-Normaly Open: water pump red wire
+Normaly Open (NO): water pump red wire
 
 Water Pump:
 +: NO relay port
