@@ -1,6 +1,6 @@
 //**********************************************************************************
 /*
-Dveloped by Dom_F0xtro_
+Dveloped by Dom_F0xtrot_
 -----
 Initial release version 1.0 @ 13.04.24
 -----
